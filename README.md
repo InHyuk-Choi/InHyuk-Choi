@@ -14,7 +14,6 @@
           <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=Flutter&logoColor=white">
           <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=Django&logoColor=white">
           <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=Bootstrap&logoColor=white">
-          <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?style=flat&logo=Tailwind CSS&logoColor=white">
           <br/></div>
       <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> ✏️ Studying </h2> <br> 
     <div style="margin: 0 auto; text-align: center;" align= "center"> <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=Next.js&logoColor=white">
